@@ -6,12 +6,13 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Top Page</title>
-        <meta name="description" content="Top page of our site" />
+        <title>My Portfolio</title>
+        <meta name="description" content="Welcome to my portfolio" />
       </Head>
 
-      <main style={{ padding: '20px' }}>
-        <h1>This is the top page</h1>
+      <main>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hi, I'm a developer passionate about creating amazing web experiences.</p>
       </main>
     </div>
   )
